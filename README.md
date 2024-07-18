@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raghuvamsi Ayapilla 
 
-## AI/ML Engineer | Data Science Strategist | Agile Leadership 
+## AI/ML Engineer | Agile Leadership 
 
 As an experienced AI/ML Engineer, I specialize in leveraging data science and machine learning to drive business transformation and operational excellence. My career is marked by a deep passion for developing innovative AI solutions that solve complex business challenges and enhance decision-making processes. 
 
