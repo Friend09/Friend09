@@ -1,62 +1,62 @@
 Raghuvamsi Ayapilla
 
-## Senior AI/ML Engineer | GitHub Copilot Champion | Technical Leader & Mentor
+## Lead Systems Solution Architect | GitHub Copilot Champion of Champions | AI/ML Technical Leader
 
-**Senior AI/ML Engineer and Data Architecture Leader** with 15+ years of comprehensive experience spanning business analysis, agile project management, and cutting-edge AI/ML implementation. Currently serving as **GitHub Copilot Champion** and **AI Academy Mentor** at Marsh & McLennan Company. Expert in **Databricks platform architecture**, **AI-powered automation frameworks**, **enterprise data engineering**, and **interactive dashboard innovation**. Led successful platform adoptions, architected ETL pipelines processing 26,000+ items daily, pioneered AI-powered testing frameworks, and developed breakthrough sentinel value bypass pattern enabling advanced multi-select filtering across 250+ enterprise applications.
+**Lead Systems Solution Architect (AI/ML)** with 15+ years of comprehensive experience spanning business analysis, agile project management, and cutting-edge AI/ML implementation. **Promoted to Lead Systems Solution Architect (Principal-level) in February 2026** at Marsh McLennan, recognizing technical leadership, AI/ML innovation, and enterprise-scale impact. Elevated to **GitHub Copilot Champion of Champions** with enterprise-wide leadership and official company training materials. Expert in **Databricks platform architecture**, **AI-powered automation frameworks**, **enterprise data engineering**, and **interactive dashboard innovation**. Included in higher leadership discussions by department leader for strategic initiatives. Architected ETL pipelines processing 26,000+ items daily, pioneered knowledge graph innovation, and delivered production dashboards actively used by managers for compliance monitoring and application maintenance decisions.
 
-## 2025 Career Highlights & Leadership
+## 2026 Career Highlights & Leadership
 
-- **Interactive Dashboard Innovation (Dec 2025):** Built production-ready **Service Maturity Dashboard in 3 days** (vs months-long timeline), tracking 250+ applications across 5 critical security metrics with novel **sentinel value bypass pattern** enabling seamless multi-select filtering across 13 datasets and 11 interactive widgets
-- **Security Excellence (Dec 2025):** Identified and remediated **path traversal vulnerabilities** through Snyk scanning, implemented multi-layer validation and input sanitization, received **formal leadership recognition** for security best practices and complex technical investigations
-- **Cross-Organizational Technical Leadership (Dec 2025):** Selected by another organization to conduct **technical interviews for Manager Data Science role**, developed comprehensive assessment frameworks and interview guides, demonstrating recognized ML expertise across company
-- **Expanded Career Mentorship (Dec 2025):** Mentored colleagues on **confidence building**, **work journaling practices**, and **imposter syndrome**, nominated for **AWS Lambda training delivery**, expanding technical training portfolio
-- **GitHub Copilot Champion:** Selected as organizational AI champion, completed training delivery to AMS team, enabled Node.js migration project through Copilot tutorials, received appreciation from development manager
-- **Databricks Platform Leadership:** Self-taught mastery leading team adoption, implementing medallion architecture processing 6,000+ applications and 20,000+ asset issues daily, created 2 of 6 assigned pipelines and enabled teammate through knowledge sharing
-- **AI-Powered Testing Innovation:** Developed revolutionary Selenium + OpenAI API testing framework with automated Gherkin/Cucumber script generation, dynamic navigation, and element ranking algorithms
-- **Model Context Protocol Pioneer:** First to introduce MCP technology to organization, created comprehensive Azure DevOps MCP documentation for Okta and terminal authentication, enabled organization-wide knowledge distribution
-- **AI Academy Mentorship:** Re-selected as AI Mentor for 100+ colleagues, successfully completed mentoring for both prompt engineering and Machine Learning tracks
-- **Production LLM Excellence:** Architected 89% accuracy ticket classification system processing 10,000+ tickets across multiple business units
-- **Compliance Metrics Leadership:** Expanded work to DARE and SIEM compliance pipelines with comprehensive exploratory data analysis, created GitHub REST API integration notebooks
+- **Promoted to Lead Systems Solution Architect (Feb 2026):** Elevated to **Principal/Staff-level** at Marsh McLennan, recognizing 2025 technical leadership, AI/ML innovation, and enterprise-scale impact
+- **GitHub Copilot Champion of Champions (Jan 2026):** Elevated from department-level champion to **enterprise-wide leadership**, creating "lead for new leads" model; training material adopted as **official company material** on SharePoint; delivered **2 enterprise-wide training sessions**
+- **Knowledge Graph & Hackathon Innovation (Jan-Feb 2026):** Built Neo4j knowledge graph + LLM chatbot converting relational database into application insights; **cleared hackathon round 1**, presented round 2; vision for **multi-source intelligence platform** (Snyk + ADO + Git Guardian + CAST Health)
+- **Production Incident Leadership (Feb 2026):** Led **Databricks domain migration** (@mmc → @marsh) after company rebrand broke all pipelines; resolved with Databricks support in **3 days** (vs 1-week estimate), minimizing downtime for team and leadership
+- **SIEM Semi-Automated ETL (Feb 2026):** Designed **two-stage ETL** for security-constrained environments — local pandas preprocessing + Databricks PySpark medallion architecture (bronze → silver → gold); dashboard reliably updated with correct compliance data
+- **Higher Leadership Inclusion (Jan 2026):** Department leader requested inclusion in **all higher leadership discussions**; nominated for **AWS Lambda leaders call** and potential handoff; reviewed architecture and scoped team tasks
+- **Anthropic Agent Skills Pioneer (Jan 2026):** Introduced Agent Skills to team with live demo; enterprise GitHub Copilot team requested material for **enterprise repository contribution**; recording shared company-wide
+- **CAST Highlight MCP UAT (Jan 2026):** Performed UAT testing of MCP server for enterprise adoption; shared UAT report enabling **company-wide CAST Highlight MCP deployment**
+- **Cross-Role Interview Leadership (Jan 2026):** Interviewed **3 Software Engineering candidates** — created materials, conducted assessments, recommended best fit; expanded from DS/ML to SWE assessment
+- **Service Maturity Dashboard Adoption (Jan 2026):** Dashboard evolved into production use by **leaders across multiple teams** for application maintenance and decision-making; tracks 250+ applications across 5 security metrics
+- **Databricks Documentation Impact (Jan 2026):** Prior documentation drove **cross-team adoption** — teams scheduled calls to learn SQL Server and ServiceNow connection patterns; thanked for "futuristic thinking"
 
 ## Current Focus & Expertise
 
-- **Interactive Dashboard Architecture:** Sentinel value bypass pattern innovation, multi-select filtering across 250+ applications, cross-dataset synchronization with 13 datasets, SQL innovation for conditional filtering
-- **Security & Code Quality:** Vulnerability detection and remediation, multi-layer validation, input sanitization, path traversal prevention, security best practices implementation
-- **Advanced AI Integration:** Selenium automation with OpenAI API, Model Context Protocol implementation, AI-powered testing frameworks, Azure DevOps MCP integration
-- **Data Platform Architecture:** Databricks medallion architecture, JTDS connectivity, SQL Warehouse optimization, compliance metrics pipelines (DARE, SIEM), GitHub REST API integration
-- **Technical Leadership & Mentorship:** GitHub Copilot evangelism, AI Academy mentoring (100+ colleagues), career development coaching, AWS Lambda training, cross-organizational technical interview leadership
-- **Enterprise Scale Solutions:** ETL pipeline optimization processing 26,000+ items daily, automated business metrics, vulnerability monitoring, production LLM deployment (89% accuracy)
+- **Enterprise Architecture & Leadership:** Lead Systems Solution Architect role, higher leadership inclusion, strategic initiative decision-making, AWS Lambda architecture reviews
+- **Enterprise AI Adoption:** Champion of Champions model, official company training materials, Anthropic Agent Skills evangelism, CAST Highlight MCP enterprise rollout
+- **Knowledge Graph Innovation:** Neo4j + LLM chatbot integration, multi-source intelligence platform vision, application relationship insights
+- **Data Platform Architecture:** Databricks medallion architecture, semi-automated ETL for security-constrained environments, Unity Catalog volume management, production dashboard delivery
+- **Production Incident Management:** Domain migration leadership, proactive incident communication, ServiceNow ticketing, rapid resolution under pressure
+- **Technical Mentorship:** AI Academy mentoring (100+ colleagues), enterprise Copilot training delivery, cross-role technical interview leadership (DS/ML + SWE)
 
 ## Connect With Me
 
 - Location: Louisville, KY
 - Email: [vamsi.ar@gmail.com](mailto:vamsi.ar@gmail.com)
-- Currently mastering: Interactive dashboard innovation with sentinel value bypass patterns, security vulnerability remediation, and next-generation AI protocol integration (MCP)
-- Open to collaborating on: AI/ML engineering projects, data platform architecture, security hardening, and emerging AI technologies
-- Roles: GitHub Copilot Champion | AI Academy Mentor | Databricks Platform Leader | Cross-Organizational Technical Interview Leader
+- Currently mastering: Knowledge graph intelligence platforms, enterprise AI adoption at scale, and semi-automated ETL for security-constrained environments
+- Open to collaborating on: AI/ML engineering projects, data platform architecture, knowledge graphs, and emerging AI technologies
+- Roles: Lead Systems Solution Architect | GitHub Copilot Champion of Champions | AI Academy Mentor | Cross-Role Interview Leader
 - Passionate about career mentorship, confidence building, and helping engineers combat imposter syndrome through structured journaling practices
 
 ## Technical Skills
 
-### 2025 Advanced Capabilities
+### 2026 Advanced Capabilities
 
-- **Dashboard Innovation (Dec 2025):** Sentinel value bypass pattern, multi-select filtering (11 widgets), cross-dataset synchronization (13 datasets), counter widget optimization, 5-tier color-coding systems
-- **Security Hardening (Dec 2025):** Path traversal vulnerability remediation, multi-layer validation, input sanitization, Snyk scanning integration
-- **Technical Interview Leadership (Dec 2025):** Structured interview guide development, candidate assessment frameworks, technical and leadership evaluation
-- **Career Mentorship (Dec 2025):** Confidence building coaching, work journaling practices, imposter syndrome guidance, goal setting frameworks
-- **AI/ML Frameworks:** Selenium automation with OpenAI API, Model Context Protocol (MCP), advanced LLM implementation (89% accuracy)
-- **Data Platforms:** Databricks (medallion architecture), JTDS drivers, SQL Warehouse compute, compliance metrics pipelines (DARE, SIEM)
-- **Automation & Testing:** AI-based smoke testing frameworks, automated Gherkin/Cucumber generation, element ranking algorithms
-- **Leadership Tools:** GitHub Copilot (organizational champion), comprehensive training curriculum development, Azure DevOps MCP integration documentation
+- **Enterprise Architecture (Feb 2026):** Lead Systems Solution Architect (Principal-level), AWS Lambda architecture review, strategic handoff scoping, higher leadership decision-making
+- **Knowledge Graphs (Jan-Feb 2026):** Neo4j knowledge graph + LLM chatbot, relational-to-graph conversion, multi-source intelligence platform design (Snyk + ADO + Git Guardian + CAST Health)
+- **Semi-Automated ETL (Feb 2026):** Two-stage ETL (local pandas + Databricks PySpark), Unity Catalog volume management, medallion architecture (bronze/silver/gold), policy-compliant data ingestion
+- **Platform Operations (Feb 2026):** Databricks domain/principal account migration (@mmc → @marsh), ServiceNow incident management, production pipeline recovery
+- **Enterprise AI Tools (Jan 2026):** Anthropic Agent Skills, CAST Highlight MCP UAT, Champion of Champions training delivery, official company material authoring
+- **AI/ML Frameworks:** LLM deployment (89% accuracy), OpenAI API, Model Context Protocol (MCP), Selenium AI automation, Langchain
+- **Data Platforms:** Databricks (medallion architecture, interactive dashboards), JTDS drivers, SQL Warehouse compute, compliance metrics pipelines (DARE, SIEM)
+- **Leadership Tools:** GitHub Copilot Champion of Champions, enterprise training curriculum, cross-role technical interviews (DS/ML/SWE)
 
 ### Core Technologies
 
 - **Programming:** Python, SQL, Git, UNIX, PySpark
-- **Machine Learning/AI:** LLM solutions, NLP models, OpenAI API, Langchain, TensorFlow, scikit-learn, HuggingFace, Spacy
-- **Data Processing:** DuckDB, FastAPI, ETL pipelines, MLOps, Pandas, aiohttp, requests, GitHub REST API integration
+- **Machine Learning/AI:** LLM solutions, NLP models, OpenAI API, Langchain, TensorFlow, scikit-learn, HuggingFace, Spacy, Knowledge Graphs
+- **Data Processing:** DuckDB, FastAPI, ETL pipelines, MLOps, Pandas, aiohttp, requests, GitHub REST API integration, Neo4j
 - **Cloud & Infrastructure:** AWS (SageMaker, S3, Lambda), Docker, Linux
 - **Databases:** PostgreSQL, MongoDB, MySQL, SQL Server, Neo4j
-- **Security & Compliance:** Snyk vulnerability scanning, Windows NTLM authentication, multi-layer validation, input sanitization
+- **Security & Compliance:** Snyk vulnerability scanning, Windows NTLM authentication, multi-layer validation, input sanitization, SIEM compliance monitoring
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a> </p>
 
@@ -68,15 +68,17 @@ Raghuvamsi Ayapilla
 - **AWS Certified AI Practitioner**
 - **TensorFlow Developer**
 
-### Leadership Recognition (2025)
+### Leadership Recognition (2026)
 
-- **December 2025 - Manager Recognition** - Formal email recognition for dedication and rapid delivery of Service Maturity Dashboard (3 days vs months)
-- **December 2025 - Leadership Recognition** - Formal recognition for technical expertise in security best practices and complex technical investigations
-- **December 2025 - Cross-Organizational Recognition** - Selected by another organization to conduct technical interviews for Manager Data Science role
-- **GitHub Copilot Champion** - Organizational selection for AI tool leadership, received appreciation from development manager for enabling Node.js migration
-- **AI Academy Mentor** - Re-selected for mentoring 100+ colleagues, successfully completed both prompt engineering and ML tracks
-- **Model Context Protocol Documentation** - Recognition from ADO admin team for comprehensive MCP Azure DevOps documentation enabling organization-wide knowledge distribution
-- **AWS Lambda Training Nomination** - Nominated to deliver AWS Lambda introduction training, expanding technical training portfolio
+- **February 2026 - Promotion** - Promoted to Lead Systems Solution Architect (Principal/Staff-level) in recognition of technical leadership, AI/ML innovation, and enterprise-scale impact
+- **February 2026 - Production Incident Leadership** - Databricks domain migration resolved in 3 days (vs 1-week estimate); team and leadership unblocked
+- **February 2026 - Enterprise Training** - 2 enterprise-wide "Introduction to Copilot" sessions delivered; practice material adopted as official reference on company SharePoint
+- **February 2026 - Hackathon** - Knowledge graph project cleared round 1; presented round 2 to leadership
+- **January 2026 - Champion of Champions** - Elevated to enterprise-wide GitHub Copilot leadership; training material is official company material (kudos on enterprise website)
+- **January 2026 - Higher Leadership Inclusion** - Department leader requested inclusion in all higher leadership discussions; nominated for AWS Lambda leaders call
+- **January 2026 - Enterprise AI Leadership** - Agent Skills material requested for enterprise repo contribution; CAST Highlight MCP UAT enabling company-wide deployment
+- **January 2026 - Cross-Team Impact** - Databricks documentation drove cross-team adoption; teams thanked for "futuristic thinking"
+- **January 2026 - Manager Recognition** - "Thank you for staying ahead of the curve" for hackathon idea and Agent Skills innovation
 
 ## Connect & Collaborate
 
@@ -91,4 +93,4 @@ Raghuvamsi Ayapilla
 
 ## Thanks for visiting my profile!
 
-_Passionate about pushing the boundaries of AI/ML engineering and empowering teams through innovative technology solutions. Dedicated to technical excellence, security best practices, and helping engineers build confidence through mentorship and structured career development. Let's connect to explore collaboration opportunities in AI, data platforms, security hardening, and emerging technologies._
+_Lead Systems Solution Architect passionate about pushing the boundaries of AI/ML engineering and empowering teams through innovative technology solutions. Dedicated to enterprise-scale impact, knowledge graph innovation, and helping engineers build confidence through mentorship and structured career development. Let's connect to explore collaboration opportunities in AI, data platforms, knowledge graphs, and emerging technologies._
