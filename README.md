@@ -6,7 +6,7 @@ Raghuvamsi Ayapilla
 
 ## 2026 Career Highlights & Leadership
 
-- **Promoted to Lead Systems Solution Architect (Feb 2026):** Elevated to **Principal/Staff-level** at Marsh McLennan, recognizing 2025 technical leadership, AI/ML innovation, and enterprise-scale impact
+- **Promoted to Lead Systems Solution Architect (Feb 2026):** Elevated to **Principal/Staff-level** at Marsh, recognizing 2025 technical leadership, AI/ML innovation, and enterprise-scale impact
 - **GitHub Copilot Champion of Champions (Jan 2026):** Elevated from department-level champion to **enterprise-wide leadership**, creating "lead for new leads" model; training material adopted as **official company material** on SharePoint; delivered **2 enterprise-wide training sessions**
 - **Knowledge Graph & Hackathon Innovation (Jan-Feb 2026):** Built Neo4j knowledge graph + LLM chatbot converting relational database into application insights; **cleared hackathon round 1**, presented round 2; vision for **multi-source intelligence platform** (Snyk + ADO + Git Guardian + CAST Health)
 - **Production Incident Leadership (Feb 2026):** Led **Databricks domain migration** (@mmc → @marsh) after company rebrand broke all pipelines; resolved with Databricks support in **3 days** (vs 1-week estimate), minimizing downtime for team and leadership
