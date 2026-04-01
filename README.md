@@ -11,6 +11,9 @@ Raghuvamsi Ayapilla
 - **Knowledge Graph & Hackathon Innovation (Jan-Feb 2026):** Built Neo4j knowledge graph + LLM chatbot converting relational database into application insights; **cleared hackathon round 1**, presented round 2; vision for **multi-source intelligence platform** (Snyk + ADO + Git Guardian + CAST Health)
 - **Production Incident Leadership (Feb 2026):** Led **Databricks domain migration** (@mmc → @marsh) after company rebrand broke all pipelines; resolved with Databricks support in **3 days** (vs 1-week estimate), minimizing downtime for team and leadership
 - **SIEM Semi-Automated ETL (Feb 2026):** Designed **two-stage ETL** for security-constrained environments — local pandas preprocessing + Databricks PySpark medallion architecture (bronze → silver → gold); dashboard reliably updated with correct compliance data
+- **Knowledge Graph AI Agent Platform (Mar 2026):** Post-hackathon, independently launched org-wide AI insight platform — v1 with Neo4j + **CrewAI multi-agent router (direct vs. decomposed query handling)** + Streamlit chatbot; expanded to **5 data sources** (CAI, SNYK, GitGuardian, ATOM, CAST)
+- **Applications Clustering on Databricks (Mar 2026):** Delivered the **first end-to-end ML solution on Databricks** — clustering applications by security posture across 5 data sources; ML strategy (clustering → vulnerability prediction) defined, advocated, and approved by leadership
+- **CTO AI Vibe Coding Partner (Mar 2026):** Specifically requested by CTO's office as **buddy for company-wide AI townhall**; live GitHub Copilot session produced working app within 2 hours — highest executive visibility earned to date
 - **Higher Leadership Inclusion (Jan 2026):** Department leader requested inclusion in **all higher leadership discussions**; nominated for **AWS Lambda leaders call** and potential handoff; reviewed architecture and scoped team tasks
 - **Anthropic Agent Skills Pioneer (Jan 2026):** Introduced Agent Skills to team with live demo; enterprise GitHub Copilot team requested material for **enterprise repository contribution**; recording shared company-wide
 - **CAST Highlight MCP UAT (Jan 2026):** Performed UAT testing of MCP server for enterprise adoption; shared UAT report enabling **company-wide CAST Highlight MCP deployment**
@@ -20,12 +23,12 @@ Raghuvamsi Ayapilla
 
 ## Current Focus & Expertise
 
-- **Enterprise Architecture & Leadership:** Lead Systems Solution Architect role, higher leadership inclusion, strategic initiative decision-making, AWS Lambda architecture reviews
-- **Enterprise AI Adoption:** Champion of Champions model, official company training materials, Anthropic Agent Skills evangelism, CAST Highlight MCP enterprise rollout
-- **Knowledge Graph Innovation:** Neo4j + LLM chatbot integration, multi-source intelligence platform vision, application relationship insights
+- **Enterprise Architecture & Leadership:** Lead Systems Solution Architect role, higher leadership inclusion, CTO-level visibility, strategic initiative decision-making, AWS Lambda architecture reviews
+- **Enterprise AI Adoption:** Champion of Champions model, official company training materials, Anthropic Agent Skills evangelism, CAST Highlight MCP enterprise rollout, enterprise AI drop-in sessions
+- **Knowledge Graph & Multi-Agent AI:** CrewAI multi-agent router pattern (direct + decomposed query handling), Neo4j + LLM chatbot, 5-source org-wide intelligence platform (CAI, SNYK, GitGuardian, ATOM, CAST)
+- **ML on Databricks:** First end-to-end ML solution on Databricks (applications clustering), ML strategy definition and advocacy (clustering → vulnerability prediction roadmap), distributed compute for security posture analysis
 - **Data Platform Architecture:** Databricks medallion architecture, semi-automated ETL for security-constrained environments, Unity Catalog volume management, production dashboard delivery
-- **Production Incident Management:** Domain migration leadership, proactive incident communication, ServiceNow ticketing, rapid resolution under pressure
-- **Technical Mentorship:** AI Academy mentoring (100+ colleagues), enterprise Copilot training delivery, cross-role technical interview leadership (DS/ML + SWE)
+- **Technical Mentorship & Leadership:** AI Academy mentoring (100+ colleagues), Databricks ETL onboarding/knowledge transfer, enterprise Copilot drop-in sessions, cross-role technical interview leadership
 
 ## Connect With Me
 
@@ -44,15 +47,17 @@ Raghuvamsi Ayapilla
 - **Knowledge Graphs (Jan-Feb 2026):** Neo4j knowledge graph + LLM chatbot, relational-to-graph conversion, multi-source intelligence platform design (Snyk + ADO + Git Guardian + CAST Health)
 - **Semi-Automated ETL (Feb 2026):** Two-stage ETL (local pandas + Databricks PySpark), Unity Catalog volume management, medallion architecture (bronze/silver/gold), policy-compliant data ingestion
 - **Platform Operations (Feb 2026):** Databricks domain/principal account migration (@mmc → @marsh), ServiceNow incident management, production pipeline recovery
+- **Multi-Agent AI & Knowledge Graphs (Mar 2026):** CrewAI multi-agent router (direct answer vs. decomposed multi-step), Neo4j multi-source graph schema (CAI, SNYK, GitGuardian, ATOM, CAST), Streamlit enterprise chatbot UI
+- **ML on Databricks (Mar 2026):** Applications clustering pipeline (end-to-end, distributed compute), clustering algorithm selection, feature engineering across security data sources, ML strategy advocacy (clustering → vulnerability prediction roadmap)
 - **Enterprise AI Tools (Jan 2026):** Anthropic Agent Skills, CAST Highlight MCP UAT, Champion of Champions training delivery, official company material authoring
-- **AI/ML Frameworks:** LLM deployment (89% accuracy), OpenAI API, Model Context Protocol (MCP), Selenium AI automation, Langchain
+- **AI/ML Frameworks:** LLM deployment (89% accuracy), OpenAI API, CrewAI multi-agent framework, Model Context Protocol (MCP), Selenium AI automation, Langchain
 - **Data Platforms:** Databricks (medallion architecture, interactive dashboards), JTDS drivers, SQL Warehouse compute, compliance metrics pipelines (DARE, SIEM)
 - **Leadership Tools:** GitHub Copilot Champion of Champions, enterprise training curriculum, cross-role technical interviews (DS/ML/SWE)
 
 ### Core Technologies
 
 - **Programming:** Python, SQL, Git, UNIX, PySpark
-- **Machine Learning/AI:** LLM solutions, NLP models, OpenAI API, Langchain, TensorFlow, scikit-learn, HuggingFace, Spacy, Knowledge Graphs
+- **Machine Learning/AI:** LLM solutions, NLP models, OpenAI API, CrewAI, Langchain, TensorFlow, scikit-learn, HuggingFace, Spacy, Knowledge Graphs, Clustering Algorithms
 - **Data Processing:** DuckDB, FastAPI, ETL pipelines, MLOps, Pandas, aiohttp, requests, GitHub REST API integration, Neo4j
 - **Cloud & Infrastructure:** AWS (SageMaker, S3, Lambda), Docker, Linux
 - **Databases:** PostgreSQL, MongoDB, MySQL, SQL Server, Neo4j
@@ -70,6 +75,10 @@ Raghuvamsi Ayapilla
 
 ### Leadership Recognition (2026)
 
+- **March 2026 - CTO Visibility** - Specifically requested by CTO's office as AI vibe coding partner for company-wide townhall; live Copilot session produced working app within 2 hours
+- **March 2026 - ML Strategy Approved** - Defined and advocated Databricks ML strategy (clustering → vulnerability prediction); approved by manager and immediately validated by senior department leader
+- **March 2026 - First ML on Databricks** - Delivered first end-to-end ML solution on Databricks (applications clustering); senior leader immediately requested extension for CVE-specific visibility
+- **March 2026 - Knowledge Graph Org Platform** - Post-hackathon Knowledge Graph AI agent expanded to 5 data sources; CrewAI multi-agent routing enabling natural-language queries for non-technical stakeholders
 - **February 2026 - Promotion** - Promoted to Lead Systems Solution Architect (Principal/Staff-level) in recognition of technical leadership, AI/ML innovation, and enterprise-scale impact
 - **February 2026 - Production Incident Leadership** - Databricks domain migration resolved in 3 days (vs 1-week estimate); team and leadership unblocked
 - **February 2026 - Enterprise Training** - 2 enterprise-wide "Introduction to Copilot" sessions delivered; practice material adopted as official reference on company SharePoint
