@@ -13,6 +13,9 @@ Raghuvamsi Ayapilla
 - **SIEM Semi-Automated ETL (Feb 2026):** Designed **two-stage ETL** for security-constrained environments — local pandas preprocessing + Databricks PySpark medallion architecture (bronze → silver → gold); dashboard reliably updated with correct compliance data
 - **Knowledge Graph AI Agent Platform (Mar 2026):** Post-hackathon, independently launched org-wide AI insight platform — v1 with Neo4j + **CrewAI multi-agent router (direct vs. decomposed query handling)** + Streamlit chatbot; expanded to **5 data sources** (CAI, SNYK, GitGuardian, ATOM, CAST)
 - **Applications Clustering on Databricks (Mar 2026):** Delivered the **first end-to-end ML solution on Databricks** — clustering applications by security posture across 5 data sources; ML strategy (clustering → vulnerability prediction) defined, advocated, and approved by leadership
+- **SAST/DAST Vulnerability ML Analysis (Apr 2026):** Applied **KMeans + Isolation Forest + Pareto analysis** to 12 months of security vulnerability data for a new cross-team stakeholder domain; identified **15 applications = 80% of total vulnerabilities** — engagement arrived unsolicited, signaling compounding ML reputation
+- **Department AI Experimentation Cohort (Apr 2026):** Selected as **1 of 12 (from 200+)** colleagues for department-wide AI Experimentation initiative — formal competitive recognition of AI/ML expertise
+- **Technowledgement Peer Nomination (Apr 2026):** Peer-nominated for company Technowledgement award recognizing bleeding-edge AI/ML knowledge sharing and colleague support
 - **CTO AI Vibe Coding Partner (Mar 2026):** Specifically requested by CTO's office as **buddy for company-wide AI townhall**; live GitHub Copilot session produced working app within 2 hours — highest executive visibility earned to date
 - **Higher Leadership Inclusion (Jan 2026):** Department leader requested inclusion in **all higher leadership discussions**; nominated for **AWS Lambda leaders call** and potential handoff; reviewed architecture and scoped team tasks
 - **Anthropic Agent Skills Pioneer (Jan 2026):** Introduced Agent Skills to team with live demo; enterprise GitHub Copilot team requested material for **enterprise repository contribution**; recording shared company-wide
@@ -24,7 +27,8 @@ Raghuvamsi Ayapilla
 ## Current Focus & Expertise
 
 - **Enterprise Architecture & Leadership:** Lead Systems Solution Architect role, higher leadership inclusion, CTO-level visibility, strategic initiative decision-making, AWS Lambda architecture reviews
-- **Enterprise AI Adoption:** Champion of Champions model, official company training materials, Anthropic Agent Skills evangelism, CAST Highlight MCP enterprise rollout, enterprise AI drop-in sessions
+- **Enterprise AI Adoption:** Champion of Champions model, official company training materials, Anthropic Agent Skills evangelism, CAST Highlight MCP enterprise rollout, enterprise AI drop-in sessions, responsible AI tooling adoption (CodeGuard, Opencode)
+- **Cross-Team ML Advisory:** Applying domain-agnostic ML (KMeans, Isolation Forest, Pareto) across new stakeholder domains; cross-team data science reputation compounding from prior visible work
 - **Knowledge Graph & Multi-Agent AI:** CrewAI multi-agent router pattern (direct + decomposed query handling), Neo4j + LLM chatbot, 5-source org-wide intelligence platform (CAI, SNYK, GitGuardian, ATOM, CAST)
 - **ML on Databricks:** First end-to-end ML solution on Databricks (applications clustering), ML strategy definition and advocacy (clustering → vulnerability prediction roadmap), distributed compute for security posture analysis
 - **Data Platform Architecture:** Databricks medallion architecture, semi-automated ETL for security-constrained environments, Unity Catalog volume management, production dashboard delivery
@@ -49,6 +53,9 @@ Raghuvamsi Ayapilla
 - **Platform Operations (Feb 2026):** Databricks domain/principal account migration (@mmc → @marsh), ServiceNow incident management, production pipeline recovery
 - **Multi-Agent AI & Knowledge Graphs (Mar 2026):** CrewAI multi-agent router (direct answer vs. decomposed multi-step), Neo4j multi-source graph schema (CAI, SNYK, GitGuardian, ATOM, CAST), Streamlit enterprise chatbot UI
 - **ML on Databricks (Mar 2026):** Applications clustering pipeline (end-to-end, distributed compute), clustering algorithm selection, feature engineering across security data sources, ML strategy advocacy (clustering → vulnerability prediction roadmap)
+- **Application Security Analytics (Apr 2026):** KMeans clustering + Isolation Forest anomaly detection + Pareto concentration analysis applied to SAST/DAST vulnerability data; cross-domain ML generalization
+- **AI Security Tooling (Apr 2026):** CodeGuard (YARA-rule AI code scanning), Opencode CLI (GitHub Copilot-backed Claude Code alternative), enterprise security review routing for responsible AI adoption
+- **Spec-Driven Development (Apr 2026):** GitHub Spec Kit structured AI engineering workflow — specification → planning → task decomposition → testing → review → execution
 - **Enterprise AI Tools (Jan 2026):** Anthropic Agent Skills, CAST Highlight MCP UAT, Champion of Champions training delivery, official company material authoring
 - **AI/ML Frameworks:** LLM deployment (89% accuracy), OpenAI API, CrewAI multi-agent framework, Model Context Protocol (MCP), Selenium AI automation, Langchain
 - **Data Platforms:** Databricks (medallion architecture, interactive dashboards), JTDS drivers, SQL Warehouse compute, compliance metrics pipelines (DARE, SIEM)
@@ -75,6 +82,9 @@ Raghuvamsi Ayapilla
 
 ### Leadership Recognition (2026)
 
+- **April 2026 - AI Experimentation Cohort** - Selected as 1 of 12 (from 200+) colleagues for department AI Experimentation initiative — formal, competitive recognition of AI/ML expertise
+- **April 2026 - Technowledgement Peer Nomination** - Peer-nominated for Technowledgement award recognizing bleeding-edge AI/ML knowledge sharing and active colleague support
+- **April 2026 - Cross-Team ML Advisory** - Applications maintenance leader approached unsolicited for SAST/DAST data science analysis; applied KMeans + Isolation Forest + Pareto; 15 apps = 80% of vulnerabilities surfaced
 - **March 2026 - CTO Visibility** - Specifically requested by CTO's office as AI vibe coding partner for company-wide townhall; live Copilot session produced working app within 2 hours
 - **March 2026 - ML Strategy Approved** - Defined and advocated Databricks ML strategy (clustering → vulnerability prediction); approved by manager and immediately validated by senior department leader
 - **March 2026 - First ML on Databricks** - Delivered first end-to-end ML solution on Databricks (applications clustering); senior leader immediately requested extension for CVE-specific visibility
